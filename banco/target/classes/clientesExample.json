@@ -1,0 +1,11 @@
+[
+    {
+        "conta": {
+            "cliente": {
+                "nome": "Nome do Cliente",
+                "cpf": 123456789
+            },
+            "saldo": 1000.0
+        }
+    }
+]
